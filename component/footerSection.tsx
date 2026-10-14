@@ -73,7 +73,7 @@ export default function FooterSection() {
                     Meenakshi Dutt
                   </h2>
                   <p className="mt-1 text-[8px] font-bold uppercase tracking-[0.32em] text-[#E8B8CB] sm:text-[9px]">
-                    Makeovers
+                    Makeovers - Dehradun
                   </p>
                 </div>
               </Link>
