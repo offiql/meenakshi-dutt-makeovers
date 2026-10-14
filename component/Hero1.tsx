@@ -21,8 +21,8 @@ const HERO_CONFIG = {
     "Premium Beauty Experience",
   ],
   address: "Dehradun, Uttarakhand",
-  phone: "+91-86302-60852",
-  phoneLink: "tel:+918630260852",
+  phone: "+91-82720-82489",
+  phoneLink: "tel:+918272082489",
   openingHours: "10 AM — 9 PM",
   openingSubtitle: "Open all days",
   theme: {

@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.blingbygunjan.com/sitemap.xml",
+    sitemap: "https://mdmdehradun.in//sitemap.xml",
   };
 }

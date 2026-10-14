@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
-const SITE_URL = "https://your-domain.com";
+const SITE_URL = "https://mdmdehradun.in/";
 const BRAND_NAME = "Meenakshi Dutt Makeovers";
 const SITE_DESCRIPTION =
   "Discover luxury bridal makeup, celebrity-inspired makeup artistry, hair styling, skincare, and personalized beauty experiences at Meenakshi Dutt Makeovers in Dehradun, Uttarakhand.";

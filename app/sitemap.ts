@@ -1,7 +1,7 @@
 export default function sitemap() {
   return [
     {
-      url: "https://www.blingbygunjan.com",
+      url: "https://mdmdehradun.in/",
       lastModified: new Date(),
     },
   ];

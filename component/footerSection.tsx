@@ -162,7 +162,7 @@ export default function FooterSection() {
 
               <div className="mt-6 space-y-3">
                 <a
-                  href="tel:+918630260852"
+                  href="tel:+918272082489"
                   className="group flex items-start gap-3 rounded-[20px] border border-white/10 bg-white/[0.045] p-3.5 transition-all duration-300 hover:border-[#F2C6D6]/30 hover:bg-white/[0.08] sm:p-4"
                 >
                   <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-[13px] bg-gradient-to-br from-[#A95778] to-[#B88964] shadow-[0_8px_20px_rgba(0,0,0,0.15)]">
@@ -174,7 +174,7 @@ export default function FooterSection() {
                       Call Us
                     </p>
                     <p className="mt-1.5 text-[12px] font-bold text-white transition-colors group-hover:text-[#F5DDE6] sm:text-[13px]">
-                      +91-86302-60852
+                      +91-82720-82489
                     </p>
                     <p className="mt-1 text-[10px] text-white/45">
                       Get in touch for appointments
