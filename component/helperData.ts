@@ -1,0 +1,1 @@
+export const location="https://maps.app.goo.gl/tSokZ5VKbXguTGoH8?g_st=ic";
