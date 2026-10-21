@@ -16,12 +16,12 @@ export default function FooterSection() {
     {
       name: "Facebook",
       icon: FaFacebookF,
-      link: "https://www.facebook.com/profile.php?id=61586415744187&ref=PROFILE_EDIT_xav_ig_profile_page_web#",
+      link: "https://www.facebook.com",
     },
     {
       name: "Instagram",
       icon: FaInstagram,
-      link: "https://www.instagram.com/bling_by_gunjan",
+      link: "https://www.instagram.com",
     },
   ];
 
